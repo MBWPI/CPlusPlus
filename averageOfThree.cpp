@@ -1,5 +1,4 @@
-// average_of_three.cpp
-// This program calculates and displays the average of three decimal numbers.
+// This program calculates and displays the average of three decimal numbers
 
 #include <iostream>
 using namespace std;
